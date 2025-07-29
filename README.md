@@ -23,6 +23,8 @@ e outras pastas como clientes, compras, includes, pedidos, produtos e relatório
 Após criar a pasta transfere ela em windows/xampp/htdocs para utilizar localhost ativando xampp com apache e mysql ligado, 
 e não esqueça também de colocar os comandos que está disponível no repositório .sql e coloque ela no MYSQL para criar nova schema e tabelas.
 E ao utilizar ou testar website coloque na aba de pesquisa "http:localhost//commerce_system(ou nome da pasta que você deu) e se não houver problema ele aparecerá
+
+
 Participante do projeto
 Kevin Yukio Ghisi Kawanishi
 125061
